@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in New Jersey, US",
+  "export_job_id": "666e6961-e649-4f2f-979a-f45a13a34e09",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 752392,
+  "location_name": "New Jersey",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-new-jersey-us-sample-752392",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/752392/beamstation_752392_restaurants-us-nj_SAMPLE_DIST.csv",
+  "sample_pct": 9.76,
+  "sample_records": 36,
+  "sample_sha256": "578e34a26041ab79ee87cf08ee8634d1ac38a2e1509e2946e9abc9133ef24093",
+  "sample_size_bytes": 146567,
+  "total_records": 369,
+  "updated_at": "2026-04-08T08:01:22.905107+00:00"
+}
