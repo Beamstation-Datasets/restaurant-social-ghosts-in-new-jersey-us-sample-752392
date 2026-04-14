@@ -1,0 +1,12 @@
+{
+  "export_job_id": "666e6961-e649-4f2f-979a-f45a13a34e09",
+  "id_short": 752392,
+  "published_at": "2026-04-14T19:19:03Z",
+  "repo_name": "restaurant-social-ghosts-in-new-jersey-us-sample-752392",
+  "sample_asset_name": "beamstation_752392_restaurants-us-nj_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/752392/beamstation_752392_restaurants-us-nj_SAMPLE_DIST.csv",
+  "sample_records": 36,
+  "sample_sha256": "578e34a26041ab79ee87cf08ee8634d1ac38a2e1509e2946e9abc9133ef24093",
+  "sample_size_bytes": 146567,
+  "total_records": 369
+}
