@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in New Jersey, US
 
-> Free BeamStation sample export with 36 rows and masked direct-contact fields.
+> Free BeamStation sample export with 33 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `752392` |
 | Location | New Jersey |
 | Category | Restaurants |
-| Full dataset size | 369 records |
-| Free sample size | 36 records (9.76%) |
-| Last export | 2026-04-08T08:01:22.905107+00:00 |
+| Full dataset size | 333 records |
+| Free sample size | 33 records (9.91%) |
+| Last export | 2026-04-15T11:09:17.602000+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-new-jersey-us-sample-752392/releases/download/sample-latest/beamstation_752392_restaurants-us-nj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
